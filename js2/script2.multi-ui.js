@@ -71,7 +71,7 @@
                 </div>
                 <h1 style="font-size:24px;font-weight:700;color:#111827;margin:0 0 16px;letter-spacing:0.5px;">站点已关闭</h1>
                 <div style="font-size:15px;color:#4b5563;line-height:1.8;margin:0 0 28px;">
-                  本站前端页面已永久下线。<br><br>
+                  <br><br>
                   感谢大家一路以来的陪伴与支持。<br>
                   <strong>江湖路远，有缘再会，后会有期。</strong>
                 </div>
