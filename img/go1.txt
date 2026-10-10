@@ -1,8 +1,8 @@
 {
-"pvideo-x86_64":"https://ncstatic-file.clewm.net/rsrc/2026/1009/23/c1e1f690256d4d57a8a2b663c6f5f6ff.jpg",
-"pvideo-x86":"https://ncstatic-file.clewm.net/rsrc/2026/1009/23/7c87c330f9e04fca9f3fabfbf538aeb3.jpg",
-"pvideo-armeabi-v7a":"https://ncstatic-file.clewm.net/rsrc/2026/1009/23/819723ce823a42b08b4d657889c86995.jpg",
-"pvideo-arm64-v8a":"https://ncstatic-file.clewm.net/rsrc/2026/1009/23/b6544cdd68ad49a581bf48810b98eeb3.jpg",
+"pvideo-x86_64":"https://ncstatic-file.clewm.net/rsrc/2026/1009/23/e21d03ed4c654111a20626051070922b.jpg",
+"pvideo-x86":"https://ncstatic-file.clewm.net/rsrc/2026/1009/23/0b112c23eb624ffc8d93e59ec05046c7.jpg",
+"pvideo-armeabi-v7a":"https://ncstatic-file.clewm.net/rsrc/2026/1009/23/1b79ee78eea646bd963767f1030edd46.jpg",
+"pvideo-arm64-v8a":"https://ncstatic-file.clewm.net/rsrc/2026/1009/23/489ac018a53a40dca2db863862e25821.jpg",
 "pvideo-x86_64.md5":"c9bd60fa41d6868c2d3034db0a4a582e",
 "pvideo-x86.md5":"ccadeedafb0cd3ad431bd0ede6ed5a04",
 "pvideo-armeabi-v7a.md5":"37349b69934c6dc61489cb520b929794",
