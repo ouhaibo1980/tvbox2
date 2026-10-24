@@ -1,0 +1,10 @@
+{
+"pvideo-x86_64":"https://ncstatic-file.clewm.net/rsrc/2026/1024/14/417a2a3bb38148bdb5aee00f70ed9bac.jpg",
+"pvideo-x86":"https://ncstatic-file.clewm.net/rsrc/2026/1024/14/965d51869baf4409a717cfa9826ffa14.jpg",
+"pvideo-armeabi-v7a":"https://ncstatic-file.clewm.net/rsrc/2026/1024/14/70886175290f4b1488225fb5967f5632.jpg",
+"pvideo-arm64-v8a":"https://ncstatic-file.clewm.net/rsrc/2026/1024/14/cc825070d97e4a9d9cbc57d9c887d204.jpg",
+"pvideo-x86_64.md5":"29df326d754ca5b20bc6435fcaddc98a",
+"pvideo-x86.md5":"74308f637e263ec48b9b98cd3ba6dc95",
+"pvideo-armeabi-v7a.md5":"a6158e345918bb3fcee6def2fad26e60",
+"pvideo-arm64-v8a.md5":"10b082bee68de294a085f66ec6901de0"
+}
